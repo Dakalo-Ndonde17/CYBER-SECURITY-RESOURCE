@@ -1,4 +1,4 @@
-# Hacker Media Session 03 - Certifications
+# Hack Media - Certifications
 
 # Certs to be evaluated
 * Offsec
