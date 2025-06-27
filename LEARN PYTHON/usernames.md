@@ -1,0 +1,17 @@
+admin
+administrator
+root
+user
+user1
+guest
+admin1
+Admin
+Administrator
+Root
+User
+Guest
+Admin1
+Boss
+Jefe
+TheBigCheese
+bee
